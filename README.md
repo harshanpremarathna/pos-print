@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-> Note: This doesn't include best practices and niether intention to follow the best practices. But intention was to provide a sample code which can be extent to communicate with POS printers. 
+> Note: This doesn't follow the best practices. And intention was to provide a sample code which can be extent to communicate with POS printers. 
 
 ## Features
 
